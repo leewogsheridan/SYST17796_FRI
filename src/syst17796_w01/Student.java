@@ -19,6 +19,11 @@ public class Student {
     public Student() {
         
     }
+    
+    public Student(String name) {
+        setStudentName(name);
+    }
+    
     public Student(String studentId, String studentName) {
         setStudentId(studentId);
         setStudentName(studentName);
