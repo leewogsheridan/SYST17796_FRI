@@ -1,6 +1,9 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * Project: SYST17796_W01
+ * Programmer: Gregory Lee Wo
+ * Date: Jan 28 2022
+ * Program: Student.java
+ * Description: To model a student.
  */
 package syst17796_w01;
 
